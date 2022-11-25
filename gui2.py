@@ -76,7 +76,6 @@ col = 1
 win = tk.Tk()
 win.title("SupLogGen")
 win.geometry('650x450+100+200')
-win.iconbitmap(r'icon.ico')
 
 # меню
 menu = tk.Menu(win)
