@@ -13,6 +13,8 @@ Check:How work your app with python on Linux:
 
 ## Docker
 ```
+#Before work:check Dockerfile(CMD)
+
 # docker build -t <Name_YOUR_app>:(version).
 
 #xhost +si:localuser:root        VERY IMPORTANT THING
